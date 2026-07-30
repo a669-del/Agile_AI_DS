@@ -1,0 +1,109 @@
+Last login: Thu Jul 23 15:01:29 on ttys000
+(base) abhay1234@abhays-MacBook-Air ~ %  xcode-select --install 
+xcode-select: note: Command line tools are already installed. Use "Software Update" in System Settings or the softwareupdate command line interface to install updates
+(base) abhay1234@abhays-MacBook-Air ~ % 
+  [Restored 23 Jul 2026 at 3:03:12 PM]
+Last login: Thu Jul 23 15:01:43 on ttys000
+(base) abhay1234@abhays-MacBook-Air ~ % git --version
+git version 2.50.1 (Apple Git-155)
+(base) abhay1234@abhays-MacBook-Air ~ % brew install git
+zsh: command not found: brew
+(base) abhay1234@abhays-MacBook-Air ~ % git --version
+git version 2.50.1 (Apple Git-155)
+(base) abhay1234@abhays-MacBook-Air ~ % cd downloads
+(base) abhay1234@abhays-MacBook-Air downloads % cd agile
+cd: no such file or directory: agile
+(base) abhay1234@abhays-MacBook-Air downloads % mkdir agile
+(base) abhay1234@abhays-MacBook-Air downloads % touch index.html
+(base) abhay1234@abhays-MacBook-Air downloads % nano index.html
+
+(base) abhay1234@abhays-MacBook-Air downloads % cd agile
+(base) abhay1234@abhays-MacBook-Air agile % ls
+(base) abhay1234@abhays-MacBook-Air agile % nano index.html
+(base) abhay1234@abhays-MacBook-Air agile % nano index.html
+(base) abhay1234@abhays-MacBook-Air agile % 
+(base) abhay1234@abhays-MacBook-Air agile % start index.html
+zsh: command not found: start
+(base) abhay1234@abhays-MacBook-Air agile % nano index.html
+(base) abhay1234@abhays-MacBook-Air agile % nano index.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                                                    File: index.html                                                     Modified  
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Web Page</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>This is my first HTML page.</p>
+
+
+    <br><br>
+
+    <img src="https://via.placeholder.com/150&quot; alt="Sample Image">
+
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>python</li>
+    </ul>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                               [ Exit cancelled ]                                                                
+^G Get Help             ^O WriteOut             ^R Read File            ^Y Prev Pg              ^K Cut Text             ^C Cur Pos              
+^X Exit                 ^J Justify              ^W Where is             ^V Next Pg              ^U UnCut Text           ^T To Spell             
